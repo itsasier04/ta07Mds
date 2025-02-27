@@ -1,0 +1,9 @@
+{
+    "agua": {
+      "dia_laboral_litros": 8000,
+      "fin_de_semana_litros": 5000,
+      "consumo_mensual_litros": 216000,
+      "consumo_anual_litros": 2160000
+    }
+  }
+  

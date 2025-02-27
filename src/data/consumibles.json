@@ -1,0 +1,80 @@
+{
+    "dades_mensuals": [
+      {
+        "nom": "Papel 500H",
+        "quantitat": 20,
+        "preu_unitat": 5.47
+      },
+      {
+        "nom": "Marcador pizarra pilot begreen 2.3 mm azul",
+        "quantitat": 30,
+        "preu_unitat": 0.89
+      },
+      {
+        "nom": "Marcador pizarra pilot begreen 2.3 mm verde",
+        "quantitat": 25,
+        "preu_unitat": 0.89
+      },
+      {
+        "nom": "Marcador pizarra pilot begreen 2.3 mm negro",
+        "quantitat": 30,
+        "preu_unitat": 0.89
+      },
+      {
+        "nom": "Marcador pizarra pilot begreen 2.3 mm rojo",
+        "quantitat": 30,
+        "preu_unitat": 0.89
+      },
+      {
+        "nom": "Recambio marcador negro",
+        "quantitat": 40,
+        "preu_unitat": 0.71
+      },
+      {
+        "nom": "Recambio marcador rojo",
+        "quantitat": 40,
+        "preu_unitat": 0.71
+      },
+      {
+        "nom": "Recambio marcador azul",
+        "quantitat": 40,
+        "preu_unitat": 0.71
+      },
+      {
+        "nom": "Recambio marcador verde",
+        "quantitat": 30,
+        "preu_unitat": 0.91
+      },
+      {
+        "nom": "Borrador no magnetico",
+        "quantitat": 6,
+        "preu_unitat": 6.83
+      },
+      {
+        "nom": "Recambio borrador",
+        "quantitat": 1,
+        "preu_unitat": 5.6
+      },
+      {
+        "nom": "Bolsas basura",
+        "quantitat": 30,
+        "preu_unitat": 1.13
+      },
+      {
+        "nom": "Papel WC",
+        "quantitat": 10,
+        "preu_unitat": 25.6
+      },
+      {
+        "nom": "Papel secamanos",
+        "quantitat": 5,
+        "preu_unitat": 18.25
+      },
+      {
+        "nom": "Garrafa jabon 5L",
+        "quantitat": 3,
+        "preu_unitat": 2.83
+      }
+    ]
+  }
+  

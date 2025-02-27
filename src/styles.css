@@ -1,0 +1,65 @@
+:root {
+    --primary-green: #A8E6CF; /* Verde claro principal */
+    --secondary-green: #56C596; /* Verde secundario */
+    --light-gray: #E0E0E0; /* Gris suave */
+    --medium-gray: #BDBDBD; /* Gris medio */
+    --dark-gray: #4F4F4F; /* Gris oscuro */
+    --off-white: #F7F7F7; /* Blanco roto */
+    --accent-color: #FFD166; /* Amarillo cálido para resaltar elementos */
+}
+
+/* General */
+body {
+    background-color: var(--off-white);
+    color: var(--dark-gray);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Botones */
+.button {
+    background-color: var(--primary-green);
+    color: var(--dark-gray);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.button:hover {
+    background-color: var(--secondary-green);
+}
+
+/* Contenedores */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Enlaces */
+a {
+    color: var(--secondary-green);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+a:hover {
+    color: var(--accent-color);
+}
+
+/* Tarjetas */
+.card {
+    background: var(--light-gray);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--medium-gray);
+    color: var(--dark-gray);
+    text-align: center;
+    padding: 15px 0;
+}

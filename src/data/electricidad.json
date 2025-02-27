@@ -1,0 +1,13 @@
+{
+    "electricidad": {
+      "numero_placas_solares": 136,
+      "autoconsumo_diario_kwh": 43,
+      "consumo_laboral_diario_kwh": 475,
+      "consumo_fin_de_semana_diario_kwh": 200,
+      "consumo_medio_semanal_diario_kwh": 396.75,
+      "porcentaje_autoconsumo": 11.05,
+      "consumo_mensual_kwh": 12000,
+      "consumo_anual_kwh": 120000
+    }
+  }
+  
