@@ -14,11 +14,4 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+LINK https://github.com/itsasier04/ta07Mds/actions/runs/13584788954/job/37977324370
